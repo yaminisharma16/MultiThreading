@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multithreading</string>
+    <string-array name="url">
+        <item>https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg</item>
+        <item>https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg</item>
+        <item>https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg</item>
+        <item>https://images.pexels.com/photos/50704/car-race-ferrari-racing-car-pirelli-50704.jpeg</item>
+        <item>https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg</item>
+    </string-array>
+</resources>
